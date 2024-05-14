@@ -5,7 +5,7 @@ function Home() {
     <>
       <div className="  justify-items-center text-center">
         <img
-          src="public\images\12_22_2023 11_24_59 PM.png"
+          src="public/images/12_22_2023 11_24_59 PM.png"
           alt="pizza"
           className="m-auto h-24 w-24"
         />
@@ -36,7 +36,7 @@ function Home() {
           <p>Sunday------------------Closed</p>
         </div>
         <div className="">
-          <img src="public\images\pngwing.com.png" alt="pizza" />
+          <img src="public/images/pngwing.com.png" alt="pizza" />
         </div>
         <div className="ml-11">
           <h2 className="text-lg font-semibold text-orange-500 ">

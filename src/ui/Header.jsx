@@ -11,11 +11,11 @@ function Header({ query, setQuery }) {
 
   return (
     <>
-      <nav className="  sticky top-0  z-50 flex w-full items-center justify-between bg-slate-100 bg-opacity-10 px-8 py-3">
+      <nav className="  sticky top-0  z-50 flex w-full items-center justify-between bg-stone-900 bg-opacity-80 px-8 py-3">
         <Link to="/">
           <span className="flex  items-center pb-2 ">
             <img
-              src="public\images\12_22_2023 11_24_59 PM.png"
+              src="public/images/12_22_2023 11_24_59 PM.png"
               alt="pizza"
               className="inline-block h-14 w-14"
             />
