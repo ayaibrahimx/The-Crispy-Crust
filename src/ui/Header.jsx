@@ -15,7 +15,7 @@ function Header({ query, setQuery }) {
         <Link to="/">
           <span className="flex  items-center pb-2 ">
             <img
-              src="public/images/12_22_2023 11_24_59 PM.png"
+              src="/images/12_22_2023 11_24_59 PM.png"
               alt="pizza"
               className="inline-block h-14 w-14"
             />
